@@ -1,0 +1,16 @@
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+D:\Projeto Decola tech\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+D:\Projeto Decola tech\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
